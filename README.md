@@ -1,4 +1,7 @@
-# Hola , I'm Chirani Siriwardhana 👋
+# Hola , I'm Chirani Siriwardhana 👋 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=chiranisiriwardhana&label=Profile%20views&color=0e75b6&style=flat" alt="chiranisiriwardhana" />
+</p>
 
 **IT Undergraduate 🎓** | **University Of Moratuwa 🦈**| **Full Stack Developer 💻** | **AI Enthusiast 🤖**
 

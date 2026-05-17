@@ -22,6 +22,8 @@ Coding , Learning and  Exploring new horizons in AI and web development.
   
 - 💻 Full Stack Developer – turning complex problems into elegant, user-friendly applications.
 
+- 📱 Mobile App Developer – building smooth and responsive mobile experiences.  
+
 - 🤖 AI Explorer – Just starting my journey into AI.
 
 - 🌍 Problem Solver – passionate about creating real-world impact through code.

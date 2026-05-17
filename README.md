@@ -10,7 +10,12 @@ Coding , Learning and  Exploring new horizons in AI and web development.
 ---
 
 ## 🚀 About Me
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
 <br>
+
 - 🌱 Curious IT undergraduate - constantly exploring the endless possibilities of technology.
   
 - 💻 Full Stack Developer – turning complex problems into elegant, user-friendly applications.
@@ -18,6 +23,14 @@ Coding , Learning and  Exploring new horizons in AI and web development.
 - 🤖 AI Explorer – Just starting my journey into AI.
 
 - 🌍 Problem Solver – passionate about creating real-world impact through code.
+
+<br>
+    </td>
+    <td valign="center" width="40%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhwYmZ3cWs0eHhiNmVsY3NnMXdhMjVlZjh0dzdqdnB1ODFqbDc1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="coding gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🌐 Conect With Me 
@@ -55,6 +68,3 @@ Coding , Learning and  Exploring new horizons in AI and web development.
 </p>
 
 ---
-
-
-
